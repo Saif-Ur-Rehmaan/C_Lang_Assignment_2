@@ -1,6 +1,6 @@
 
-#include <stdio.h>
 /**Q 1.  Write down a C program to show a simple calculator using functions.	  */
+#include <stdio.h>
 int addition(int elems[],int arraySize){
     int total=0;
     for(int i=0;i<arraySize;i++){

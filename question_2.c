@@ -1,6 +1,6 @@
 
-#include <stdio.h>
 /**Q. 2 Write a C program to find the minimum and the maximum value in an array.  */
+#include <stdio.h>
 int main()
 {
     int arr[10]={1,5,20,30,8,10,70,30,101,5};

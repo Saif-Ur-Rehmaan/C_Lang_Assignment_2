@@ -1,5 +1,5 @@
-#include <stdio.h>
 /**Q. 3. Write a program that reads three user inputted numbers and prints the largest number. */
+#include <stdio.h>
 
 int main()
 {
